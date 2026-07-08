@@ -7,7 +7,7 @@ Minecraft 1.16.5 ile Fabric 0.11.3 (ve üstü) ile uyumludur.
 Gradle wrapper ile .jar oluşturup mods klasörüne atarak kullanabilirsiniz.
 
 # Kombinasyonlar
-F: Uçmayı aç/kapa
-G: Bypass aç/kapa
-Yukarı ok: Hızı arttır
-Aşağı ok: Hızı azalt
+F: Uçmayı aç/kapa | 
+G: Bypass aç/kapa | 
+Yukarı ok: Hızı arttır | 
+Aşağı ok: Hızı azalt | 
