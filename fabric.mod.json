@@ -1,0 +1,26 @@
+{
+
+  "schemaVersion": 1,
+  "id": "flighthack",
+  "version": "1.0.0",
+  "name": "Flight Hack",
+  "description": "Flight Hack with Bypass",
+  "authors": ["one"],
+  "contact": {},
+  "license": "",
+  "icon": "",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.example.flighthack.FlightMod"
+    ]
+  },
+  "mixins": [
+    "mixins.flight.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}
