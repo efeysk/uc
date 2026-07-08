@@ -11,3 +11,7 @@ F: Uçmayı aç/kapa |
 G: Bypass aç/kapa | 
 Yukarı ok: Hızı arttır | 
 Aşağı ok: Hızı azalt 
+
+# İletişim
+
+Discord: hashmetmeab
